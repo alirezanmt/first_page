@@ -1,0 +1,47 @@
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+            font-family: 'Sansita Swashed', cursive;
+            background: url("img.jpg") no-repeat center center fixed;
+            -webkit-background-size: cover;
+            -moz-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+        }
+        
+        h2 {
+            color: #DEF1CF;
+            font-size: 3rem;
+            -webkit-text-stroke-width: 1px;
+            -webkit-text-stroke-color: #552700;
+        }
+        
+        h1 {
+            font-family: 'Courgette', cursive;
+            font-size: 3rem;
+            background: -webkit-linear-gradient(#F4FBA7, #F4FBA7, #C8D168);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        h1 strong {
+            border-bottom: 3px solid white;
+        }
+        
+        .buffer1 {
+            height: 11rem;
+        }
+        
+        p {
+            font-family: 'Libre Baskerville', serif;
+            color: #FFE8DB;
+            font-size: 1.5em;
+        }
+        
+        .btn {
+            font-family: 'Courgette', cursive;
+            font-size: 2rem;
+            padding: 3px 20px;
+            border-radius: 2rem;
+        }
