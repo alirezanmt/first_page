@@ -3,7 +3,7 @@
             height: 100%;
             width: 100%;
             font-family: 'Sansita Swashed', cursive;
-            background: url("img.jpg") no-repeat center center fixed;
+            background: url("img6.jpg") no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
@@ -20,13 +20,13 @@
         h1 {
             font-family: 'Courgette', cursive;
             font-size: 3rem;
-            background: -webkit-linear-gradient(#F4FBA7, #F4FBA7, #C8D168);
+            background: -webkit-linear-gradient(#B32A0D, #E54B2B, #B32A0D);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
         }
         
         h1 strong {
-            border-bottom: 3px solid white;
+            border-bottom: 3px solid #E54B2B;
         }
         
         .buffer1 {
@@ -35,7 +35,7 @@
         
         p {
             font-family: 'Libre Baskerville', serif;
-            color: #FFE8DB;
+            color: rgba(186, 229, 43, 0.5);
             font-size: 1.5em;
         }
         
